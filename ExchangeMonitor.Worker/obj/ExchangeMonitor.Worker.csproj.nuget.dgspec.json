@@ -1,0 +1,324 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Worker\\ExchangeMonitor.Worker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Application\\ExchangeMonitor.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Application\\ExchangeMonitor.Application.csproj",
+        "projectName": "ExchangeMonitor.Application",
+        "projectPath": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Application\\ExchangeMonitor.Application.csproj",
+        "packagesPath": "C:\\Users\\wicto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wicto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.equipeblue.com.br/api/v4/projects/14/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Domain\\ExchangeMonitor.Domain.csproj": {
+                "projectPath": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Domain\\ExchangeMonitor.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Domain\\ExchangeMonitor.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Domain\\ExchangeMonitor.Domain.csproj",
+        "projectName": "ExchangeMonitor.Domain",
+        "projectPath": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Domain\\ExchangeMonitor.Domain.csproj",
+        "packagesPath": "C:\\Users\\wicto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wicto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.equipeblue.com.br/api/v4/projects/14/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Infrastructure\\ExchangeMonitor.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Infrastructure\\ExchangeMonitor.Infrastructure.csproj",
+        "projectName": "ExchangeMonitor.Infrastructure",
+        "projectPath": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Infrastructure\\ExchangeMonitor.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\wicto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wicto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.equipeblue.com.br/api/v4/projects/14/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Application\\ExchangeMonitor.Application.csproj": {
+                "projectPath": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Application\\ExchangeMonitor.Application.csproj"
+              },
+              "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Domain\\ExchangeMonitor.Domain.csproj": {
+                "projectPath": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Domain\\ExchangeMonitor.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.6.5, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.29.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Worker\\ExchangeMonitor.Worker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Worker\\ExchangeMonitor.Worker.csproj",
+        "projectName": "ExchangeMonitor.Worker",
+        "projectPath": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Worker\\ExchangeMonitor.Worker.csproj",
+        "packagesPath": "C:\\Users\\wicto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Worker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wicto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gitlab.equipeblue.com.br/api/v4/projects/14/packages/nuget/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Application\\ExchangeMonitor.Application.csproj": {
+                "projectPath": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Application\\ExchangeMonitor.Application.csproj"
+              },
+              "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Infrastructure\\ExchangeMonitor.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\wicto\\Desktop\\estudos_C#\\project_ExchangeMonitor\\ExchangeMonitor.Infrastructure\\ExchangeMonitor.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "SendGrid.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

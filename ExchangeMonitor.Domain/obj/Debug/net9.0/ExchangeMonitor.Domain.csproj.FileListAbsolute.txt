@@ -1,0 +1,11 @@
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Domain\bin\Debug\net9.0\ExchangeMonitor.Domain.deps.json
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Domain\bin\Debug\net9.0\ExchangeMonitor.Domain.dll
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Domain\bin\Debug\net9.0\ExchangeMonitor.Domain.pdb
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Domain\obj\Debug\net9.0\ExchangeMonitor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Domain\obj\Debug\net9.0\ExchangeMonitor.Domain.AssemblyInfoInputs.cache
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Domain\obj\Debug\net9.0\ExchangeMonitor.Domain.AssemblyInfo.cs
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Domain\obj\Debug\net9.0\ExchangeMonitor.Domain.csproj.CoreCompileInputs.cache
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Domain\obj\Debug\net9.0\ExchangeMonitor.Domain.dll
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Domain\obj\Debug\net9.0\refint\ExchangeMonitor.Domain.dll
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Domain\obj\Debug\net9.0\ExchangeMonitor.Domain.pdb
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Domain\obj\Debug\net9.0\ref\ExchangeMonitor.Domain.dll

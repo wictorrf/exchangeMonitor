@@ -1,0 +1,15 @@
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\bin\Debug\net9.0\ExchangeMonitor.Application.deps.json
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\bin\Debug\net9.0\ExchangeMonitor.Application.dll
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\bin\Debug\net9.0\ExchangeMonitor.Application.pdb
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\bin\Debug\net9.0\ExchangeMonitor.Domain.dll
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\bin\Debug\net9.0\ExchangeMonitor.Domain.pdb
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\obj\Debug\net9.0\ExchangeMonitor.Application.csproj.AssemblyReference.cache
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\obj\Debug\net9.0\ExchangeMonitor.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\obj\Debug\net9.0\ExchangeMonitor.Application.AssemblyInfoInputs.cache
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\obj\Debug\net9.0\ExchangeMonitor.Application.AssemblyInfo.cs
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\obj\Debug\net9.0\ExchangeMonitor.Application.csproj.CoreCompileInputs.cache
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\obj\Debug\net9.0\Exchange.9B3F988B.Up2Date
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\obj\Debug\net9.0\ExchangeMonitor.Application.dll
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\obj\Debug\net9.0\refint\ExchangeMonitor.Application.dll
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\obj\Debug\net9.0\ExchangeMonitor.Application.pdb
+c:\Users\wicto\Desktop\estudos_C#\project_ExchangeMonitor\ExchangeMonitor.Application\obj\Debug\net9.0\ref\ExchangeMonitor.Application.dll
